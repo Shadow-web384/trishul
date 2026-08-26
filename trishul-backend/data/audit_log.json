@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-08-25T07:46:20.407806+00:00",
+    "event_type": "SCHEDULE_INSPECTION",
+    "project_id": "MPLAD-003",
+    "description": "Physical inspection scheduled for Community Health Centre in Nagpur, Maharashtra.",
+    "actor": "User"
+  },
+  {
+    "timestamp": "2026-08-25T07:52:55.345361+00:00",
+    "event_type": "SCHEDULE_INSPECTION",
+    "project_id": "MPLAD-003",
+    "description": "Physical inspection scheduled for Community Health Centre in Nagpur, Maharashtra.",
+    "actor": "User"
+  },
+  {
+    "timestamp": "2026-08-25T07:52:59.245969+00:00",
+    "event_type": "VERIFY_EXPENDITURE",
+    "project_id": "MPLAD-003",
+    "description": "Expenditure verification initiated for Community Health Centre. Sanctioned: ₹3,500,000, Utilized: ₹3,400,000.",
+    "actor": "User"
+  }
+]
